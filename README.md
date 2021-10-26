@@ -6,7 +6,7 @@ Since 2009, the exam has been composed of 180 multiple-choice questions, equally
 Source: https://en.wikipedia.org/wiki/Exame_Nacional_do_Ensino_Médio
 
 # What is this project?
-This is an exploratory data analysis based on the 2019 results of the ENEM exam. The dataset is public and provided by the Brazillian Government.
+This is an exploratory data analysis based on the results of the ENEM exam of 2019. The dataset is public and provided by the Brazillian Government.
 
 Dataset: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
 
